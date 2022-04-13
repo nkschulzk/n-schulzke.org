@@ -1,0 +1,15 @@
+.indent {
+    text-indent: 25px;
+}
+img {
+    width: 600px;
+  }
+.emphasis{
+    font-weight: bold;
+    margin-top: 20px;
+    margin-bottom: 40px;
+}
+.deepblue{
+    color: rgb(23, 23, 138);
+}
+
