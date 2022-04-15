@@ -41,3 +41,6 @@ p {
     text-align: center;
     margin-bottom: 0px;
   }
+  body{
+    background-color: gainsboro;
+}
